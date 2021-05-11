@@ -1,0 +1,24 @@
+{
+    "id": "4a1f719d-ac83-4f37-b2d4-794147d348e6",
+    "name": "PaymentsQuery",
+    "publisher": "Default publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "18.0.0.0",
+    "idRanges": [{
+        "from": 50300,
+        "to": 50349
+    }],
+    "contextSensitiveHelpUrl": "https://PaymentsQuery.com/help/",
+    "showMyCode": true,
+    "runtime": "7.0"
+}
