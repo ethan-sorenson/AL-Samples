@@ -1,0 +1,25 @@
+{
+  "id": "32c08ea4-381a-4828-992c-7c8e2f9cf0cb",
+  "name": "WarehouseShipmentQuery",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 53200,
+      "to": 53249
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}

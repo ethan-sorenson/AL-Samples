@@ -13,7 +13,7 @@ query 50300 CustomerPayments
         dataitem(Payment; "Detailed Cust. Ledg. Entry")
         {
             DataItemTableFilter = "Document Type" = filter(Payment);
-            column(PaymentEntryNo; "Entry No.")
+            column(PaymentEntryNo_; "Entry No.")
             {
             }
             column(PaymentAmount; "Amount")

@@ -1,0 +1,39 @@
+{
+  "id": "78a1adda-931f-4ebd-8aea-f24e3bcee143",
+  "name": "Popdock Widgets",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "f58a05f1-7501-400f-ac28-bc3294e1619a",
+      "name": "Popdock for Dynamics 365 Business Central",
+      "version": "1.0.0.0",
+      "publisher": "eOne Solutions"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
