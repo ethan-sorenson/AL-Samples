@@ -1,3 +1,4 @@
+// Replace https://widget-weu.popdock.com/embed/aa3e51db-5e4e-ce57-53ec-b4117572b602 with your widget id
 page 50100 PopdockFactBoxPart
 {
     PageType = CardPart;
